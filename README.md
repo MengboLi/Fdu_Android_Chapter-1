@@ -1,0 +1,2 @@
+# Fdu_Android_Chapter-1
+这是高级软件测试的实践作业1，内容为创建一个Android studio测试代码并且关联github
